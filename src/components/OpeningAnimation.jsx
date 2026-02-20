@@ -58,7 +58,7 @@ const OpeningAnimation = ({ onComplete }) => {
                             className="mb-12 text-center"
                         >
                             <h2 className="font-script text-5xl md:text-7xl text-wedding-gold mb-2 drop-shadow-2xl">Pallabesh & Sushree</h2>
-                            <p className="font-display text-wedding-gold/60 tracking-[0.4em] uppercase text-[10px] md:text-sm">Wednesday, April 19, 2026</p>
+                            <p className="font-display text-wedding-gold/60 tracking-[0.4em] uppercase text-[10px] md:text-sm">Sunday, April 19, 2026</p>
                         </motion.div>
 
                         <motion.button
