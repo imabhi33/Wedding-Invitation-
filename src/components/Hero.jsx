@@ -73,7 +73,7 @@ const Hero = () => {
                         transition={{ delay: 1, duration: 1 }}
                         className="font-display text-3xl sm:text-4xl md:text-5xl text-wedding-gold tracking-tight font-light italic drop-shadow-sm"
                     >
-                        19 April 2026
+                        Sunday, 19 April 2026
                     </motion.p>
                     <motion.p
                         initial={{ opacity: 0 }}

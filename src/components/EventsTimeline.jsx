@@ -5,7 +5,7 @@ import { Gem, Music, Clock, MapPin } from 'lucide-react';
 const events = [
     {
         title: "The Wedding",
-        date: "April 19, 2026 | 6:00 PM Onwards",
+        date: "Sunday, April 19, 2026 | 6:00 PM Onwards",
         location: "Palara, Jaraka, Jajpur, Odisha 755050",
         description: "SACRED CEREMONY",
         icon: <Gem className="w-8 h-8 text-wedding-gold" />,
@@ -13,7 +13,7 @@ const events = [
     },
     {
         title: "The Reception",
-        date: "April 21, 2026 | 6:00 PM Onwards",
+        date: "Wednesday, April 22, 2026 | 6:00 PM Onwards",
         location: "Palara, Jaraka, Jajpur, Odisha 755050",
         description: "CELEBRATION DINNER",
         icon: <Music className="w-8 h-8 text-wedding-gold" />,
